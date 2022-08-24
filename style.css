@@ -1,0 +1,92 @@
+
+nav {
+    border: black;
+   
+    margin-bottom: 10px;
+    outline: 20px;
+    outline-color: black;
+}
+
+.first {
+  padding: 20px;
+  border: 20px;
+  margin: 20px;
+  background-color: antiquewhite;
+  border-radius: 10px;
+}
+
+.section {
+    background-color: #46C7C7;
+    border-radius: 10px;
+    padding: 20px;
+   
+
+}
+
+.second {
+
+  padding: 20px;
+  border: 20px;
+  margin: 20px;
+  background-color: #66ffcc;
+  border-radius: 10px;
+}
+.third img {
+  border-radius: 50px;
+}
+
+.fourth {
+background-color: blanchedalmond;
+border-radius: 10px;
+padding: 20px;
+
+}
+
+body {
+  background-image: i
+}
+
+.fifth {
+  background-color: #46C7C7;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+.seventh {
+  padding: 50px;
+  background-color: #66ffcc;
+  border: 50px;
+  border-radius: 20px;
+  margin: 30px;
+  width: 60%;
+  box-sizing: border-box;
+
+}
+
+.eighth {
+
+  background-color: #46C7C7;
+  border-radius: 10px;
+  padding: 15px;
+  margin:50px
+}
+
+input[type="submit"] {
+  
+  background-color: #46C7C7;
+  border-color: none;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 7px;
+  text-align: center;
+  cursor: pointer;
+  text-align: center;
+  color: rgb(20, 20, 20);
+  
+}
+
+input[type="submit"]:hover {
+
+  background-color: #0A8B8B;
+}
+
